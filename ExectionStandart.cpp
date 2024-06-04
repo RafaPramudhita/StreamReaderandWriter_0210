@@ -22,5 +22,5 @@ int main() {
     cout << "Baris program yang terakhir" << endl;
     /*Penanda 2: Bahwa Program berjalan tanpa berhenti meskipun terjadi kesalahan*/
         
-    
+    return 0;
 }
